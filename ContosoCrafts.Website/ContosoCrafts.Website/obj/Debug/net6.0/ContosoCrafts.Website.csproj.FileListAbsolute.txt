@@ -23,3 +23,4 @@ C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Websit
 C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Debug\net6.0\ref\ContosoCrafts.Website.dll
 C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Debug\net6.0\ContosoCrafts.Website.pdb
 C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Debug\net6.0\ContosoCrafts.Website.genruntimeconfig.cache
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Debug\net6.0\ContosoCrafts.WebSite.csproj.AssemblyReference.cache
