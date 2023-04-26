@@ -13,6 +13,7 @@ namespace ContosoCrafts.WebSite
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    webBuilder.UseUrls("https://192.168.177.198:7292", "https://localhost:7292");
                 });
     }
 }

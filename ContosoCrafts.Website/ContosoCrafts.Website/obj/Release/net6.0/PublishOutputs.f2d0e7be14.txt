@@ -1,0 +1,7 @@
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Release\net6.0\PubTmp\Out\ContosoCrafts.WebSite.exe
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Release\net6.0\PubTmp\Out\ContosoCrafts.WebSite.dll
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Release\net6.0\PubTmp\Out\ContosoCrafts.WebSite.deps.json
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Release\net6.0\PubTmp\Out\ContosoCrafts.WebSite.runtimeconfig.json
+C:\Users\mike\Nextcloud\Development\CSharp\ASP.NET-CORE-101\ContosoCrafts.Website\ContosoCrafts.Website\obj\Release\net6.0\PubTmp\Out\ContosoCrafts.WebSite.pdb
